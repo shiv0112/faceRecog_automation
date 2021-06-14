@@ -4,7 +4,7 @@ Your email must have allowed access to less secure apps
 Create a folder 'faces' with two subfolders
     'user1'
     'user2'
-Replace the number in whatsap() in main.iynb by your desired phone number.
+Replace the number in whatsapp() in main.iynb by your desired phone number.
 First run face_model_creation.ipynb
 Now run the main.ipynb
 
