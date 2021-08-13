@@ -1,6 +1,8 @@
+For demo please click the below link::
+https://srivastavashiv0112.medium.com/a-face-recognition-program-for-security-and-automation-1aca2479a092
+
 # faceRecog_automation
 Your aws cli must be configured
-
 
 Your email must have allowed access to less secure apps
 
