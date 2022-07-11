@@ -15,8 +15,8 @@ Project Description 📄
 
 
 Result:
-Model Successfully Recognized the user face with his name.
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/shiv_face.gif)
+
+![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/shiv_face.gif "Model Successfully Recognized the user's face with his name.")
 
 
 For demo please click the below link::
