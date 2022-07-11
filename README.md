@@ -40,21 +40,13 @@ Finally an ec2 instance is created on AWS and a 5 GB EBS volume is also attached
 ![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/instance.jpeg)
 ![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/volume.jpeg)
 
-For demo please click the below link::
-https://srivastavashiv0112.medium.com/a-face-recognition-program-for-security-and-automation-1aca2479a092
-
-
 Your aws cli must be configured
 
 Your email must have allowed access to less secure apps
 
 Create a folder 'faces' with two subfolders
-
-
-    'user1'
-    
-    
-    'user2'
+'user1'    
+'user2'
     
     
 Replace the number in whatsapp() in main.iynb by your desired phone number.
@@ -62,6 +54,12 @@ Replace the number in whatsapp() in main.iynb by your desired phone number.
 First run face_model_creation.ipynb
 Now run the main.ipynb
 
+### What I learnt from this project:
+-->How to work with CV2 python library
+
+-->How to detect face and recognize them
+
+-->How to integrate AWS and WhatsApp API to python code
 
 
 
