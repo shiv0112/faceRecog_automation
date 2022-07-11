@@ -61,6 +61,9 @@ Now run the main.ipynb
 
 -->How to integrate AWS and WhatsApp API to python code
 
+For detailed explanation read my blog:
+https://srivastavashiv0112.medium.com/a-face-recognition-program-for-security-and-automation-1aca2479a092
+
 
 
 
